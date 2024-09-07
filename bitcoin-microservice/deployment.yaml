@@ -22,4 +22,4 @@ spec:
         - name: bitcoin-price-v1-service
           image: worldbosskafka/email-svc:v1.0.8
           ports:
-            - containerPort: 1957
+            - containerPort: 5000
